@@ -1,0 +1,46 @@
+_repo: The-Wife-and-Other-Stories_1883
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Garnett, Constance
+    alias: Black, Constance Clara
+    birthdate: 1861
+    deathdate: 1946
+    gutenberg_agent_id: '2858'
+    url: http://www.gutenberg.org/2009/agents/2858
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Constance_Garnett
+    - http://www.womenofbrighton.co.uk/constanceblackgarnett.htm
+creator:
+  author:
+    agent_name: Chekhov, Anton Pavlovich
+    aliases:
+    - Chekov, Anton Pavlovich
+    - Tshehov, Anton
+    - Tchekhov, Anton
+    - Чехов, Антон Павлович
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '708'
+    url: http://www.gutenberg.org/2009/agents/708
+    wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
+description: ''
+gutenberg_issued: '2006-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1883'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- !lcsh 'Chekhov, Anton Pavlovich, 1860-1904 -- Translations into English'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: The wife -- Difficult people -- The grasshopper -- A dreary story
+  -- The privy councillor -- The man in a case -- Gooseberries -- About love -- The
+  lottery ticket.
+title: The Wife, and Other Stories
+url: http://www.gutenberg.org/ebooks/1883
