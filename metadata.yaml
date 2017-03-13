@@ -1,5 +1,5 @@
 _repo: The-Wife-and-Other-Stories_1883
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Garnett, Constance
@@ -11,6 +11,9 @@ contributor:
     wikipedia:
     - http://en.wikipedia.org/wiki/Constance_Garnett
     - http://www.womenofbrighton.co.uk/constanceblackgarnett.htm
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chekhov, Anton Pavlovich
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/708
     wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1883#The-Wife-and-Other-Stories
 gutenberg_issued: '2006-02-26'
 gutenberg_type: Text
 identifiers:
