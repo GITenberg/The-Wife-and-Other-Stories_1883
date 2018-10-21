@@ -13,6 +13,7 @@ Author: Anton Chekhov
 Translator: Constance Garnett
 
 Release Date: February 25, 2006 [EBook #1883]
+[Last updated: March 12, 2016]
 
 Language: English
 
@@ -249,7 +250,7 @@ II
 
 Of all the mass of acquaintances who, in this house twenty-five to
 thirty-five years ago, had eaten, drunk, masqueraded, fallen in love,
-married bored us with accounts of their splendid packs of hounds and
+married, bored us with accounts of their splendid packs of hounds and
 horses, the only one still living was Ivan Ivanitch Bragin. At one time
 he had been very active, talkative, noisy, and given to falling in love,
 and had been famous for his extreme views and for the peculiar charm of
@@ -855,7 +856,7 @@ what was lacking on my floor and in my life altogether. My wife was
 wearing a pink flannel dressing-gown; it made her look much younger,
 and gave a softness to her rapid and sometimes abrupt movements. Her
 beautiful dark hair, the mere sight of which at one time stirred me to
-passion, had from sitting so long with her head bent c ome loose from
+passion, had from sitting so long with her head bent come loose from
 the comb and was untidy, but, to my eyes, that only made it look more
 rich and luxuriant. All this, though is banal to the point of vulgarity.
 Before me stood an ordinary woman, perhaps neither beautiful nor
@@ -1807,8 +1808,8 @@ been till that day were already a stranger to me.
 
 The doctor drove behind and kept talking loudly with his coachman. From
 time to time he overtook me, drove side by side, and always, with the
-same naive confidence that it was very pleasant to me, offered me a ci
-garette or asked for the matches. Or, overtaking me, he would lean right
+same naive confidence that it was very pleasant to me, offered me a
+cigarette or asked for the matches. Or, overtaking me, he would lean right
 out of his sledge, and waving about the sleeves of his fur coat, which
 were at least twice as long as his arms, shout:
 
@@ -1976,7 +1977,7 @@ spoon and cleared his throat, meaning to begin to speak, but after an
 intent look at his father he fell to eating again. At last, when the
 porridge had been served, he cleared his throat resolutely and said:
 
-"I ought to go tonight by the evening train. I out to have gone before;
+"I ought to go tonight by the evening train. I ought to have gone before;
 I have missed a fortnight as it is. The lectures begin on the first of
 September."
 
@@ -3107,7 +3108,7 @@ lips quivered. "_Nature morte._"
 
 "Ah--ah!... A sketch?"
 
-The artist took the sketch in his hands, and as he examined it w alked,
+The artist took the sketch in his hands, and as he examined it walked,
 as it were mechanically, into the other room.
 
 Olga Ivanovna followed him humbly.
@@ -3269,7 +3270,7 @@ in the drawing-room, and the sketches on the walls and the exquisite
 decoration of the room, and the fact that the lady of the house was
 dishevelled and untidy--all that aroused not the slightest interest now.
 One of the doctors chanced to laugh at something, and the laugh had a
-strange and timid sound that made one's heart ac he.
+strange and timid sound that made one's heart ache.
 
 When Olga Ivanovna went into the drawing-room next time, Korostelev was
 not asleep, but sitting up and smoking.
@@ -3578,7 +3579,7 @@ head, give a forced smile, and turn my face away. Ever since I have been
 suffering from sleeplessness, a question sticks in my brain like a nail.
 My daughter often sees me, an old man and a distinguished man, blush
 painfully at being in debt to my footman; she sees how often anxiety
-over petty debts forces me to lay aside my work and to walk u p and down
+over petty debts forces me to lay aside my work and to walk up and down
 the room for hours together, thinking; but why is it she never comes to
 me in secret to whisper in my ear: "Father, here is my watch, here
 are my bracelets, my earrings, my dresses.... Pawn them all; you want
@@ -3720,7 +3721,7 @@ his wife at night.
 Another characteristic is his fanatical faith in the infallibility
 of science, and, above all, of everything written by the Germans. He
 believes in himself, in his preparations; knows the object of life, and
-knows nothing of the doubts and disappointments that turn the hair o f
+knows nothing of the doubts and disappointments that turn the hair of
 talent grey. He has a slavish reverence for authorities and a complete
 lack of any desire for independent thought. To change his convictions is
 difficult, to argue with him impossible. How is one to argue with a man
@@ -4171,7 +4172,7 @@ rainbow hopes, and the most aristocratic views of her work.
 Her first letters on the journey were marvellous. I read them, and was
 simply amazed that those small sheets of paper could contain so much
 youth, purity of spirit, holy innocence, and at the same time subtle
-and apt judgments which would have done credit to a fine mas culine
+and apt judgments which would have done credit to a fine masculine
 intellect. It was more like a rapturous paean of praise she sent me than
 a mere description of the Volga, the country, the towns she visited, her
 companions, her failures and successes; every sentence was fragrant with
@@ -4630,7 +4631,7 @@ protested and expressed indignation, I have only advised and persuaded.
 All my life it has been my endeavour that my society should not be a
 burden to my family, to my students, to my colleagues, to my servants.
 And I know that this attitude to people has had a good influence on all
-who have chanced to c ome into contact with me. But now I am not a king.
+who have chanced to come into contact with me. But now I am not a king.
 Something is happening to me that is only excusable in a slave; day and
 night my brain is haunted by evil thoughts, and feelings such as I never
 knew before are brooding in my soul. I am full of hatred, and contempt,
@@ -5078,7 +5079,7 @@ creativeness.
 All this applies to what is called belles-lettres.
 
 As for serious treatises in Russian on sociology, for instance, on art,
-and so on, I do not rea d them simply from timidity. In my childhood and
+and so on, I do not read them simply from timidity. In my childhood and
 early youth I had for some reason a terror of doorkeepers and attendants
 at the theatre, and that terror has remained with me to this day. I am
 afraid of them even now. It is said that we are only afraid of what we
@@ -5102,7 +5103,7 @@ Once I was summoned as an expert to a circuit court; in an interval one
 of my fellow-experts drew my attention to the rudeness of the public
 prosecutor to the defendants, among whom there were two ladies of good
 education. I believe I did not exaggerate at all when I told him that
-the prosecutor s manner was no ruder than that of the authors of serious
+the prosecutor's manner was no ruder than that of the authors of serious
 articles to one another. Their manners are, indeed, so rude that I
 cannot speak of them without distaste. They treat one another and the
 writers they criticize either with superfluous respect, at the sacrifice
@@ -5743,7 +5744,7 @@ staying in the So-and-so Hotel."
 Apparently, illustrious names are created to live on their own account,
 apart from those that bear them. Now my name is promenading tranquilly
 about Harkov; in another three months, printed in gold letters on my
-monument, it will shine bright as the sun itself, while I s hall be
+monument, it will shine bright as the sun itself, while I shall be
 already under the moss.
 
 A light tap at the door. Somebody wants me.
@@ -6017,7 +6018,7 @@ into the garden.
 
 Nature, knowing nothing of the history of the Gundasov family and the
 rank of my uncle, felt far more at ease and unconstrained than I. There
-was a clamour going on in the garden such as one only bears at fairs.
+was a clamour going on in the garden such as one only hears at fairs.
 Masses of starlings flitting through the air and hopping about the
 walks were noisily chattering as they hunted for cockchafers. There
 were swarms of sparrows in the lilac-bushes, which threw their tender,
@@ -6594,7 +6595,7 @@ surname--Tchimsha-Himalaisky--which did not suit him at all, and he
 was called simply Ivan Ivanovitch all over the province. He lived at a
 stud-farm near the town, and had come out shooting now to get a breath
 of fresh air. Burkin, the high-school teacher, stayed every summer at
-Count P-----'s, and had been thoroughly at home in this district for
+Count P----'s, and had been thoroughly at home in this district for
 years.
 
 They did not sleep. Ivan Ivanovitch, a tall, lean old fellow with
@@ -6692,7 +6693,7 @@ acquaintances, afraid to read books, afraid to help the poor, to teach
 people to read and write...."
 
 Ivan Ivanovitch cleared his throat, meaning to say something, but first
-lighted his pipe, g azed at the moon, and then said, with pauses:
+lighted his pipe, gazed at the moon, and then said, with pauses:
 
 "Yes, intellectual, right minded people read Shtchedrin and Turgenev,
 Buckle, and all the rest of them, yet they knocked under and put up with
@@ -7018,7 +7019,7 @@ time in his life he had been spoken to so rudely.
 
 "'You can say what you please,' he said, as he went out from the entry
 to the landing on the staircase. 'I ought only to warn you: possibly
-some on e may have overheard us, and that our conversation may not be
+some one may have overheard us, and that our conversation may not be
 misunderstood and harm come of it, I shall be compelled to inform our
 headmaster of our conversation... in its main features. I am bound to
 do so.'
@@ -7461,7 +7462,7 @@ an oppressive feeling that was close upon despair. It was particularly
 oppressive at night. A bed was made up for me in the room next to my
 brother's bedroom, and I could hear that he was awake, and that he kept
 getting up and going to the plate of gooseberries and taking one. I
-reflected how many satisfied, happy people there really are! 'What a
+reflected how many satisfied, happy people there really are! What a
 suffocating force it is! You look at life: the insolence and idleness
 of the strong, the ignorance and brutishness of the weak, incredible
 poverty all about us, overcrowding, degeneration, drunkenness,
@@ -7766,7 +7767,7 @@ As a rule I went in unannounced, as though I were one of the family.
 "'Who is there?' I would hear from a faraway room, in the drawling
 voice that seemed to me so lovely.
 
-"'It is Pavel Konstantinovitch,' answered the maid or the nurs e.
+"'It is Pavel Konstantinovitch,' answered the maid or the nurse.
 
 "Anna Alexyevna would come out to me with an anxious face, and would ask
 every time:
